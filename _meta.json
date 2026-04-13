@@ -1,0 +1,9 @@
+{
+  "name": "热点雷达",
+  "version": "2.0.0",
+  "description": "全网热搜抓取+AI行业筛选+创作引导，生成热点简报并引导创作",
+  "author": "清华哥",
+  "platforms": ["workbuddy", "qclaw", "openclaw", "codex", "claude-code", "cline"],
+  "requirements": {},
+  "entry": "SKILL.md"
+}

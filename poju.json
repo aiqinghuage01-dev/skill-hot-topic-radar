@@ -1,0 +1,22 @@
+{
+  "show_on_site": true,
+  "runtime": "local",
+  "stage": 2,
+  "role": "情报侦察员",
+  "avatar": {
+    "style": "bottts",
+    "seed": "radar-scout-001"
+  },
+  "capabilities": [
+    "web_fetch",
+    "web_search"
+  ],
+  "clients": [
+    "claude-code",
+    "opencode",
+    "workbuddy",
+    "openclaw",
+    "claude-desktop"
+  ],
+  "description_short": "全网热搜抓取+行业筛选+创作引导"
+}
